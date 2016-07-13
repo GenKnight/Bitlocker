@@ -1,0 +1,6 @@
+BitLocker 驱动器加密: 配置工具版本 6.3.9600
+版权所有 (C) 2013 Microsoft Corporation。保留所有权利。
+
+错误: BitLocker 无法打开卷 C:。
+这可能是由于该卷不存在，或者它并非有效
+BitLocker 卷。

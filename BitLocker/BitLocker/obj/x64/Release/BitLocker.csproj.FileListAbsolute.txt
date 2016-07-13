@@ -1,0 +1,9 @@
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\bin\x64\Release\BitLocker.exe.config
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\bin\x64\Release\BitLocker.exe
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\bin\x64\Release\BitLocker.pdb
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.Properties.Resources.resources
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.View.MainWin.resources
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.csproj.GenerateResource.Cache
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.exe
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.pdb
+F:\Project\Coding\AndroidStudio\BitLocker\BitLocker\obj\x64\Release\BitLocker.csprojResolveAssemblyReference.cache
